@@ -1,7 +1,7 @@
 # webfejlesztes2_9c
 
-HTML alapok
+1. HTML alapok
 
-CSS alapok
+2. CSS alapok
 
-Boostrap
+3. Boostrap
