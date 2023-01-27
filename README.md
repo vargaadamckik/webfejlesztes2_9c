@@ -4,4 +4,4 @@
 
 2. CSS alapok
 
-3. Boostrap
+3. Bootstrap
