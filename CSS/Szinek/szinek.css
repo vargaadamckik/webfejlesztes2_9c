@@ -1,0 +1,12 @@
+p {
+    color: blue;
+}
+
+/* body p span ---> specifikusabb */
+span {
+    color: rgb(17, 221, 17);
+}
+
+#modern {
+    color: yellow;
+}
