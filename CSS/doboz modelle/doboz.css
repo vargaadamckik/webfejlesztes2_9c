@@ -1,0 +1,18 @@
+body {
+    background-color: lightblue;
+}
+
+#piros {
+    background-color: red;
+    width: 150px;
+}
+
+#kek {
+    background-color: blue;
+    width: 75%;
+}
+
+#felsodoboz {
+    background-color: lightgray;
+    width: 50%;
+}
