@@ -7,6 +7,22 @@ span {
     color: rgb(17, 221, 17);
 }
 
+/* id = # tag */
 #modern {
     color: yellow;
+}
+
+/* class = . tag */
+.golyo {
+    color: black;
+}
+
+/* body-n belül összes span */
+/* body span {
+    color: purple;
+} */
+
+/* body kozvetlen gyereke */
+body>span {
+    color: purple;
 }
