@@ -16,3 +16,22 @@ body {
     background-color: lightgray;
     width: 50%;
 }
+
+#zold {
+    background-color: green;
+    /* vw : view width */
+    /* %-ban értetendő */
+    width: 75vw;
+}
+
+#lila {
+    background-color: purple;
+    height: 100px
+}
+
+#citrom {
+    background-color: yellow;
+    /* vh = view height */
+    height: 20vh;
+}
+
