@@ -35,3 +35,24 @@ body {
     height: 20vh;
 }
 
+#szegely {
+    background-color: orange;
+    /* dashed, solid, dotted, double */
+    /* border-style: solid;
+    border-width: 2.5px;
+    border-color: red; */
+    border: 2.5px solid red;
+}
+
+#vegyes {
+    background-color: aqua;
+}
+
+#felsodoboz ~ div {
+    width: 40%;
+    height: 40px;
+}
+
+#kulso_margo {
+    background-color: blue;
+}
