@@ -17,6 +17,10 @@ div {
     border: 1px solid black;
 }
 
+.egysoros {
+    display: inline;
+}
+
 /* black :
 1. Teljes teret kitölti
 2. Egymás alatt jelenik meg */
