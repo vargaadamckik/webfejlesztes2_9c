@@ -1,0 +1,25 @@
+img {
+    width: 400px;
+    border: 5px dotted purple;
+    
+}
+
+p {
+    background-color: yellow;
+    width: 40%;
+    margin: 10px auto;
+}
+
+div {
+    background-color: lightblue;
+    width: 100px;
+    height: 40px;
+    border: 1px solid black;
+}
+
+/* black :
+1. Teljes teret kitölti
+2. Egymás alatt jelenik meg */
+.tobbsoros {
+    display: block;
+}
