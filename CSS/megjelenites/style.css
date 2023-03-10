@@ -23,7 +23,16 @@ div {
 
 /* black :
 1. Teljes teret kitölti
-2. Egymás alatt jelenik meg */
+2. Egymás alatt jelenik meg
+*/
 .tobbsoros {
     display: block;
+}
+
+.vegyes {
+    display: inline-block;
+}
+
+.nincsitt {
+    display:none;
 }
