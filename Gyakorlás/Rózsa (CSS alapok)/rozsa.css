@@ -1,0 +1,55 @@
+img {
+    width: 15em;
+    display: block;
+    margin: auto;
+}
+
+body {
+    background-color: indianred;
+    color: indigo;
+}
+
+div {
+    width: 80%;
+    background-color: lightcyan;
+    padding: 10px 30px;
+    margin: auto;
+}
+
+h2 {
+    border-left: 5px solid black;
+    padding-left: 5px;
+    font-variant: small-caps; 
+}
+
+p {
+    text-align: justify;
+}
+
+.erdekesseg {
+    font-style: italic;
+    font-family: "Comic Sans MS", cursive;
+    border: 2px dashed indianred;
+    padding: 8px;
+}
+
+#bevezeto span {
+    text-transform: uppercase;
+}
+
+#bevezeto, #jellemzok {
+    font-weight: bold;
+}
+
+a {
+    background-color: lightblue;
+    color: blue;
+    /* font-size: 120%; */
+    font-size: 1.2em;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    display: inline-block;
+    width: calc(50% - 2px);
+    text-align: center;
+}
+
