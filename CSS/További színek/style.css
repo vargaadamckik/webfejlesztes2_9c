@@ -1,0 +1,31 @@
+div {
+    width: 40%;
+    height: 40px;
+    background-color: aqua;
+    border: 1px solid black;
+}
+
+#doboz1 {
+    /* rgb(red, green, blue) */
+    /* 0 es 255 kozott */
+    background-color: rgb(200, 50, 0);
+}
+
+#doboz2 {
+    background-color: #16f41a;
+    background-color: rgb(22, 244, 26);
+}
+
+#doboz3 {
+    background-color: rgba(4, 30, 200, 60%);
+}
+
+#doboz4 {
+    background-color: hsl(200, 80%, 60%);
+}
+
+#doboz5 {
+    background-color: red;
+    opacity: 70%;
+    color: blue;
+}
