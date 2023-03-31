@@ -1,0 +1,43 @@
+body {
+    width: 80%;
+    border: 1px solid black;
+    margin: auto;
+    /* position: relative; */
+}
+
+div {
+    width: 100px;
+    height: 50px;
+    border: 1px solid black;
+}
+
+#a {
+    background-color: red;
+    /* margin-left: 20px;
+    margin-top: 20px; */
+    /* static, relative, absolute, fixed, sticky */
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+
+#b {
+    background-color: green;
+    /* absolute: legkozelebbi pozicionalt őshoz kepest */
+    position: absolute;
+    left: 20px;
+    top: 40px;
+}
+
+#c {
+    background-color: blue;
+}
+
+#d {
+    background-color: yellow;
+}
+
+#e {
+    background-color: brown;
+    text-align: right;
+}
