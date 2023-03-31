@@ -19,6 +19,7 @@ div {
     position: relative;
     left: 20px;
     top: 10px;
+    z-index: 1;
 }
 
 #b {
@@ -27,6 +28,7 @@ div {
     position: absolute;
     left: 20px;
     top: 40px;
+    z-index: 3;
 }
 
 #c {
@@ -41,6 +43,7 @@ div {
     position: sticky;
     top: 0px;
     left: 40px;
+    z-index: -1;
 }
 
 #e {
@@ -48,4 +51,9 @@ div {
     text-align: right;
     position: relative;
     left: 50px;
+    bottom: 70px;
+    z-index: 2;
 }
+
+/* A, B, D ,E */
+/* D, A, E, B */

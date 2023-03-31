@@ -1,0 +1,58 @@
+div {
+    background-color: lightblue;
+    border: 1px solid black;
+    height: 40px;
+    width: 100px;
+    margin: 20px;
+}
+
+#fenti {
+
+}
+
+#lenti {
+
+}
+
+p {
+
+}
+
+ul {
+    background-color: lightcoral;
+}
+
+li {
+    background-color: lightcyan;
+    padding: 5px 0px;
+}
+
+a {
+    text-decoration: none;
+    background-color: rgb(240, 240, 0);
+    border: 1px solid black;
+    padding: 20px;
+    width: 30%;
+    text-align: center;
+    display: block;
+    margin: 10px auto;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+table {
+    margin: auto;
+    margin-bottom: 12%;
+}
+
+td, th {
+    background-color: white;
+    height: 50px;
+    width: 150px;
+}
+
+body {
+    background-color: rgba(144, 238, 144, 0.4);
+}
