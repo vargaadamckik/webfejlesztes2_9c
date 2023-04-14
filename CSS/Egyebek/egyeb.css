@@ -8,14 +8,17 @@ div {
 
 #fenti {
     box-shadow: 5px 3px blue;
+    cursor: progress;
 }
 
 #lenti {
     box-shadow: 0px 0px 20px red;
+    cursor: crosshair;
 }
 
 p {
     text-shadow: 2px 3px 10px green;
+    text-indent: 20px;
 }
 
 ul {
@@ -29,6 +32,7 @@ li {
     margin-bottom: 10px;
     list-style-type: circle;
     list-style-position: inside;
+    text-indent: 15px;
 }
 
 a {
@@ -42,21 +46,50 @@ a {
     margin: 10px auto;
 }
 
+a:link {
+    color: green;
+}
+
+a:visited {
+    color: black;
+}
+
+a:active {
+    color: blue;
+}
+
+a:hover {
+    color: red;
+    background-color: yellow;
+    border-style: dashed;
+    text-decoration: underline;
+}
+
 table, td, th {
     border: 1px solid black;
+    border-collapse: separate;
+    /* border-spacing: 20px; */
 }
 
 table {
     margin: auto;
-    margin-bottom: 12%;
+    margin-bottom: 22%;
 }
 
 td, th {
     background-color: white;
     height: 50px;
     width: 150px;
+    text-align: center;
+    vertical-align: middle;
 }
 
 body {
     background-color: rgba(144, 238, 144, 0.4);
+    background-image: url(fruit_salad.png), url(books.png);
+    background-size: 12%, 20%;
+    background-repeat: repeat-x, no-repeat;
+    background-position: bottom center, top 2% right;
+    background-attachment: scroll;
 }
+

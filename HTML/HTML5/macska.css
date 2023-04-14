@@ -1,0 +1,131 @@
+body {
+    width: 80%;
+    margin: auto;
+}
+
+/* 
+    1. Szoveg igazitas: kozepre
+    2. Betumeret: 1.5-szeres
+    3. Also-margo: 20 keppont
+*/
+header {
+    background-color: lightblue;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+h1 {
+    padding: 20px;
+    margin: 0px auto;
+}
+
+h2 {
+    font-variant: small-caps;
+}
+
+/* 
+    ???
+*/
+section {
+    background-color: blanchedalmond;
+    padding: 15px;
+    text-align: justify;
+    
+}
+
+/* 
+    Szegély: 1 képpont, folytonos, barna
+*/
+article {
+    background-color: rgb(253, 244, 206);
+    padding: 20px;
+    margin: 15px auto;
+    border: 1px solid brown
+}
+
+/* 
+    1. Jobbra lebeg!
+    2. Betűtípus: kézírásos
+    3. Háttér: RGB(100, 100, 100) szürke, 60%-os átlátszóság
+*/
+aside {
+    width: 30%;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    float: right;
+
+}
+
+/* 
+    Felső margó: 20 képpont
+*/
+footer {
+    text-align: center;
+    background-color: lightblue;
+    padding: 20px;
+    font-size: 150%;
+}
+
+/* 
+    Navigacio
+    ul -> Ne legyen belso margo!
+*/
+nav ul {
+
+}
+
+/* 
+    Nincs lista jel!
+*/
+nav ul li{
+    background-color: green;
+    text-align: center;
+}
+
+/* 
+    Navigációs linkek:
+    1. Balra lebegnek
+    2. Ne legyenek aláhúzva!
+    3. Szélesség: 33%? 100% / 3?
+*/
+nav a {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(37, 177, 67);
+}
+
+/* 
+    Rámutatva:
+    1. Háttér: rgba(0, 100, 20, 0.8)
+    2. Fehér betűszín
+    3. Aláhúzás
+*/
+
+
+/* 
+    Ugrás a tetejére link!
+    1. Szélesség: 20%-os képernyő szélesség
+    2. Belső margó: 10 pixel
+    3. Háttér: fekete
+    4. Betűszín: fehér
+    5. Szöveg középen
+    6-7. Jobb alsó sarokban (-15vw, 2%)
+*/
+#tetejere {
+
+}
+
+/* 
+    1. Jobbra: 0vw
+    2. Átmenet: 1 másodperc
+*/
+#tetejere:hover {
+
+}
+
+/* 
+    Vissza (nincs rajta az "osztaly"): 1 másodperc
+*/
