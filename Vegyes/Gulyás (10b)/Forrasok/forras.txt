@@ -1,0 +1,74 @@
+A Gulyás
+
+//https://www.nosalty.hu/recept/tradicionalis-gulyasleves/
+
+!
+     <ul class="nav">
+         <li class="nav-item"><a class="nav-link" href=#agulyas >A gulyásfőzés</a></li>
+         <li class="nav-item"><a class="nav-link" href=#tortenete>Története</a></li>
+         <li class="nav-item"><a class="nav-link" href=#gulyasvaltozatok>Gulyásváltozatok</a></li>
+         <li class="nav-item"><a class="nav-link" href=#keszites>Készítése</a></li>
+         <li class="nav-item"><a class="nav-link" href=#erdekessegek>Érdekességek</a></li>
+     </ul>
+!
+
+A gulyásfőzés:
+A húst főleg paprikás hús nevű nemzeti eledel gyanánt készítve eszik; ez különféle húsból vagy szárnyasból áll, melyet füstölt vagy füstöletlen szalonna zsírjával készítenek hagymával, sóval és veres borssal (paprika) fűszerezve, melyről az ételt elnevezték; az egészet soká pirítják, hogy leve megsűrűsödjék. A többi húsétkek közül említendő még a gulyás hús (gulyások vagdalékja), melynek híg levével a kenyeret ízesítik; a porkelt hus melyet sűrű lére készítenek s hidegen és megsűrűsödve esznek.
+
+{A hortobágyi bográcsgulyás}
+
+Története:
+Több forrás is megegyezik abban, hogy az étel születését, elterjedését az alföldi pásztorélethez kapcsolja, amelynek kerete a külterjes állattenyésztés volt (a Nagykunság, a Hortobágy és peremvidékei[3]). A pásztorok a településektől távol élve maguknak főztek, és ehhez szinte egyetlen főzőedényük volt, a fémbogrács. Kenyeret, szalonnát, fűszereket hoztak magukkal, a hús adott volt. Az 1790-es évekig valószínűleg a marhahús volt jellemző, hiszen a legelőkön főleg magyar szürkemarhát tartottak. Ekkor jelentek meg nagy számban a juhok, s a juhászok természetesen azoknak a húsát fogyasztották. Az első időkben köret (krumpli) nélkül fogyasztották, csak kenyérrel, a húsokat bicskahegyre tűzve, esetleg kanállal.
+
+Mivel a marhatenyésztés a társadalom több rétegének biztosította jövedelmét, akik közvetlen kapcsolatba kerültek a pásztorokkal (földbirtokosok vagy megbízottaik, kereskedők, gazdag parasztok), előfordulhat, hogy korán megismerkedtek ezzel a könnyen elkészíthető, de ízletes étellel. Figyelembe véve készítésének egyszerűségét és a pásztorok életkörülményeit, elképzelhető, hogy a 18. század végére, első fennmaradt írásos megemlítésének idejére a gulyás (pörkölt, paprikás) mint ételtípus létezése már hosszú évszázadokra tekintett vissza. Fordulatot történetében a paprika megjelenése hozott, amelyet az első időkben kimondottan „paraszti” fűszernek tartottak. Váncsa István vélekedése szerint[4] a rendkívül magas piaci értékű marhahús semmiképpen sem lehetett a gulyások mindennapi eledele, nem is tekinthető jellegzetes pusztai ételnek, hanem inkább városi (pesti, bécsi) vendéglőkben feltalált (feltálalt) étel, a XIX. század második felétől.
+
+Első ismert irodalmi előfordulása Mátyus István Diatetica című művében volt „Gujás-hús” alakban, 1787-ben. Érdekessége, hogy az Erdélyben élő Mátyusnak az alföldi pásztorok hagyományos ételéről közvetlen tapasztalata nem volt, de a szövegkörnyezetből kitűnik, hogy a gulyás akkor már közismert ételelnevezés volt, és készítési módját is ismerték. A következő években is gyakran feltűnik különböző szerzők írásaiban mint olyan étel neve, amelyhez külön magyarázat nem szükséges.
+
+Gvadányi József Peleskei nótáriusa 1790-ben hortobágyi utazása alatt ismerte meg a gulyáshúst, amelyet egy gulyás készített számára. Innen származik a gulyás készítésének első, igen szemléletes leírása. Érdekessége, hogy Gvadányi nem említi az étel nevét, valamint a hozzávalók között nem szerepel a paprika, amelyet a költő versének más helyén viszont megemlít törökbors néven. Az ételnév elmaradásának oka lehetett az is, hogy a pásztorok ételüket mindössze csak „hús” néven említették: húst főznek. Általában a gulyás elnevezést az irodalmi köznyelvben használták, a nép nyelvén a paprikás ételeket pörkölt vagy paprikás névvel illették.
+
+A gulyás (pörkölt, paprikás) a paraszti konyhában is hamar feltűnt, erről már 1792-ből van írott adat. A paprikás húst 1786-ban említi először a szegedi piarista rendház rektora számadáskönyvében. Valószínűsíthető, hogy a munkásoknak készítették. Veszelszki Antal orvos, botanikus a törött fűszerpaprikát egyértelműen a köznép fűszerének tartja, s megemlíti, hogy „A' Magyarok, a' Rátzok gulyás – húsban igen szeretik.”
+
+A gulyás igen hamar, már 1793-ban megjelent mint katonaétel. A rajnai fronton egy magyar egység táborozott, amikor augusztus „21-dikben, mikor éppen egy kis gulyás húst főznénk, akkor ütött ránk az ellenség”, azaz a franciák. A tisztek is valószínűleg megismerkedtek vele. A gulyás másik útja az előkelő rétegek felé az utasok számára a vendégfogadókban felszolgált vagy vadászatokon fogyasztott ételként vezetett. Szirmay Antal 1804-ben a régebbi eredetű borsos gulyáshúst már mint a nemesi középrétegek hagyományos ételét említi, míg az újabb, paprikával készült változatot egyértelműen a paraszti ételek közé sorolja.
+
+Gulyásváltozatok:
++Bográcsgulyás: fokhagymával, paradicsommal ízesített változat.
++Alföldi gulyás: zöldségekkel (répával, karalábéval stb.) gazdagon dúsított változat.
++Szegedi gulyás: zöldségekkel és csipetkével készített gulyás.
++Andrássy-gulyás: marha húsból készül
++Császárgulyás: császárszalonnából
++Kolozsvári gulyás: édeskáposztával készül.
++Szerb gulyás: kelkáposztával dúsított, majorannával ízesített változat.
++Csángó gulyás: savanyúkáposztával készítik.
++Babgulyás: a hosszú időre beáztatott száraz tarkababot egyszerre teszik fel a hússal főni. Gazdagon kell fűszerezni.
++Juhászos birka: a kizsírozott edénybe rétegezve rakják bele a húst, a paprikát és a hagymát. A hús a saját levében fő meg, s az eredmény nagyon hasonlít a pörköltre.
+
+{Bográcsgyulyás}
+
+Készítése:
+A gulyáslevest nagyon sokféle módon el lehet készíteni, és minden változatnak megvannak a maga rajongói, akik pár dologban mégis egyetértenek. Berántani, tehát a leves sűrítéséhez lisztet használni tilos. Ha mégis hígnak tűnne a leves, a paradicsompasztát ajánlják, de csak korlátozott mennyiségben adagolva (maximum néhány kanál), különben savanyú ízt kap.
+
+Az alapreceptet felhasználva, nem csak marha, de mindenféle húsból (baromfi-, birka-, vad-, sőt vegyes húsból is) el lehet készíteni a levest, sőt készíthetjük pörköltből is. Van gombás, zöldbabos, zöldséges gulyásleves, sőt hús hozzáadása nélkül készített is, ez a „hamisgulyás”.
+
+Érdekességek:
++Az étel nevét először 1807-ben nyomtatták ki németül, gujasfleisch alakban.
++Az első szakácskönyv, amelyben a gulyás receptje megjelent, Rátz Zsuzsanna Búza szükségben felsegéllő Jegyzések című receptgyűjteménye volt, amelyet Miskolcon adtak ki 1816-18-ban, és szerző a burgonyát kívánta népszerűsíteni a falusiak körében. Érdekessége, hogy a Gulyás-hús kromplival elkészítési módja szerint inkább a paprikásra emlékeztet, de paprikát nem használ.
++Az első külföldi szakácskönyvben 1826-ban jelent meg, s a neve meglepő módon Wiener oder Golasch-Fleisch volt, azaz bécsi vagy gulyás-hús.
++A gulyás legkorábbi ismert étlapi előfordulása a mosonmagyaróvári Fekete Sas vendéglőből származik 1836-ból.
+
+
+Gulyásnak nevezett külföldi ételek
+
+Ország
+Csehország
+Ausztia
+Lengyelország
+Ukrajna
+Szlovákia
+
+Név
+guláš s knedlíky
+wiener fiakergulasch
+polski gulasz
+гуляш
+slowak gulasch
+
